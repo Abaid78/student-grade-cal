@@ -1,0 +1,70 @@
+body{
+    background-color: aqua;
+}
+.main{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin: auto;
+    top: 135px;
+    position: relative;
+}
+h1{
+    color: aqua;
+    position: relative;
+    right: 132px;
+    top: 50px;
+}
+.stText{
+    color: aqua;
+    position: relative;
+    right: 176px;
+    top: 89px;
+    font-size: 22px;
+}
+.slid{
+    background-color:aqua;
+    width: 71px;
+    height: 6px;
+    transform-origin: center;
+    position: relative;
+    right: 44px;
+    top: -42px;
+    
+}
+
+   
+
+.grade{
+    background-color: rgb(83, 82, 82);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 629px;
+    height: 294px;
+    gap: 6px; ;
+    border-radius: 20px;
+    box-shadow: 0 50px 50px rgba(97, 95, 95, 0.5);
+}
+input{
+    width: 209px;
+    position: relative;
+    left: 157px;
+    bottom: 55px;
+}
+#btn{
+    width: 209px;
+    position: relative;
+    left: 157px;
+    bottom: 55px;
+}
+#result{
+    font-size: 20px;
+    position: relative;
+    bottom: 23px;
+    margin: 0px 66px;
+}
+
